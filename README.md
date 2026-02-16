@@ -5,7 +5,7 @@ This project is a Power BI analysis of a Superstore dataset. It includes dashboa
 ## Dashboards
 
 ### KPI Summary
-![KPI Summary](Dashboard_KPI_summar_superstore.png)
+![KPI Summary](Dashboard_KPI_summary_superstore.png)
 
 ### Order Overview
 ![Order Overview](Dashboard_Order_overview_superstore.png)
