@@ -1,0 +1,7 @@
+# Power BI
+*.pbix
+!Superstore.pbix
+
+# System files
+Desktop.ini
+Thumbs.db
